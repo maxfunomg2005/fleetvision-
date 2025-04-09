@@ -1,5 +1,5 @@
 "use client"
-
+import { cn } from "@/lib/utils";
 import { useState, useEffect } from "react"
 import { ArrowDownIcon, ArrowRightIcon, ArrowUpIcon, TruckIcon } from "lucide-react"
 
